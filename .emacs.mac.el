@@ -272,7 +272,7 @@
 ; (global-set-key [C-tab] 'other-window)
 ; (global-set-key [M-return] 'previous-buffer)
 ; (global-set-key [C-return] 'backward-buffer)
-(global-set-key [S-tab] 'other-window)
+(global-set-key [S-C-tab] 'other-window)
 (global-set-key "\M-]" 'previous-buffer)
 (global-set-key "\M-[" 'backward-buffer)
 
